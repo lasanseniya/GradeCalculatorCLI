@@ -187,7 +187,7 @@ if __name__ == "__main__":  #To indicate entry point (main thread)
 
 
         elif choice == 'd':
-            runpy.run_path( path_name = 'dict.py') ####Runs dict.py
+            runpy.run_path( path_name = 'dictionary.py') ####Runs dict.py
 
             back_to_menu = is_valid("\nBack to main menu?(y/n): ", 'yn')
             if back_to_menu == 'y':
