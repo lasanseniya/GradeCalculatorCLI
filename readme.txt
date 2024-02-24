@@ -6,10 +6,3 @@ progression_data.txt - progression data will be written to this file during staf
 
 
 The separate dictionary program (dict.py) is accessible via the main menu in main.py file
-
-
-
-
-THANK YOU!
-
-LASAN SENIYA RANATUNGE
